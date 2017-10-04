@@ -27,6 +27,7 @@ var _reportOptions = [
     { label : "Qty - Assembly Code",    fieldName: "Assembly Code",     fieldType : "Properties"},
     { label : "Qty - Material",         fieldName: "Material",          fieldType : "Properties"},
     { label : "Qty - Volume",           fieldName: "Volume",            fieldType : "Properties"}
+    { label : "Qty - length",           fieldName: "Length",            fieldType : "Properties"}
 ];
 
     // populate the popup menu with the avaialable models to load (from the array above)
